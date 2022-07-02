@@ -14,6 +14,12 @@ public class SeleniumTest{
 	public void Xpath()
 	{
 		System.out.println("Xpath");
+		
 	}
+	public void Xpath2()
+	{
+		System.out.println("Xpath2");
+	}
+
 
 }

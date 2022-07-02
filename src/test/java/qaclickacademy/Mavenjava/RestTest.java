@@ -24,7 +24,10 @@ public class RestTest {
 		}
 
 	
-	
+		public void API()
+		{
+			System.out.println("Api2");
+		}
 	
 	
 

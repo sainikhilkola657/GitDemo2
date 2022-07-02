@@ -18,7 +18,12 @@ public class AppiumTest{
 	
 	
 	
-	
+		public void IosLatest()
+		{
+			System.out.println("Ios Latest");
+		}
+
+
 	
 	
 	
