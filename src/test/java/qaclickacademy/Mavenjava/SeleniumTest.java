@@ -21,5 +21,9 @@ public class SeleniumTest{
 		System.out.println("Xpath2");
 	}
 
+	public void Xpath3()
+	{
+		System.out.println("Xpath3");
+	}
 
 }
